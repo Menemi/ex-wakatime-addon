@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/wakatime-addon/static/css/main.8ba31889.css",
+    "main.css": "/wakatime-addon/static/css/main.73c8a168.css",
     "main.js": "/wakatime-addon/static/js/main.bf9766de.js",
     "index.html": "/wakatime-addon/index.html",
-    "main.8ba31889.css.map": "/wakatime-addon/static/css/main.8ba31889.css.map",
+    "main.73c8a168.css.map": "/wakatime-addon/static/css/main.73c8a168.css.map",
     "main.bf9766de.js.map": "/wakatime-addon/static/js/main.bf9766de.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ba31889.css",
+    "static/css/main.73c8a168.css",
     "static/js/main.bf9766de.js"
   ]
 }

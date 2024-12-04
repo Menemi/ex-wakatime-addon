@@ -1,1 +1,1 @@
-# EX REPO THE ACTUAL IS: https://github.com/Menemi/wakatime-addon
+# THIS IS AN EX REPO THE ACTUAL IS HERE: https://github.com/Menemi/wakatime-addon
